@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShrikantShahapure.github.io/Edyoda/static/css/main.8724b383.css",
+    "main.js": "/ShrikantShahapure.github.io/Edyoda/static/js/main.9dcff194.js",
+    "index.html": "/ShrikantShahapure.github.io/Edyoda/index.html",
+    "main.8724b383.css.map": "/ShrikantShahapure.github.io/Edyoda/static/css/main.8724b383.css.map",
+    "main.9dcff194.js.map": "/ShrikantShahapure.github.io/Edyoda/static/js/main.9dcff194.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8724b383.css",
+    "static/js/main.9dcff194.js"
+  ]
+}
